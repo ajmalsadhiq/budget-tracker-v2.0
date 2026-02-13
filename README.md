@@ -45,10 +45,13 @@ Track income, expenses, savings, and visualize your finances with interactive ch
 
 ## 📸 Screenshots
 
-> _(Add screenshots here)_  
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
 
-```md
-![Login Page](./screenshots/login.png)
-![Dashboard](./screenshots/dashboard.png)
-![Charts](./screenshots/chart1.png)
-(./screenshots/chart2.png)
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 📈 Charts
+![Charts 1](screenshots/chart1.png)
+![Charts 2](screenshots/chart2.png)
+
