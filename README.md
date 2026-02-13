@@ -50,4 +50,5 @@ Track income, expenses, savings, and visualize your finances with interactive ch
 ```md
 ![Login Page](./screenshots/login.png)
 ![Dashboard](./screenshots/dashboard.png)
-![Charts](./screenshots/charts.png)
+![Charts](./screenshots/chart1.png)
+(./screenshots/chart2.png)
